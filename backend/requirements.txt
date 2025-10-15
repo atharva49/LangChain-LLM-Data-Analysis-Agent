@@ -1,0 +1,11 @@
+fastapi==0.95.2
+uvicorn[standard]==0.21.1
+langchain>=0.0.370
+openai>=0.27.0
+sqlalchemy>=1.4
+python-dotenv>=1.0.0
+pydantic==1.10.7
+langchain-openai
+langchain-community
+faker>=18.0.0
+pandas>=1.0.0

@@ -96,7 +96,6 @@ Response:
 ## Screenshots / Demo
 Add screenshots or a short GIF here showing the frontend in action and a sample query/response.
 
-![screenshot-placeholder](./docs/screenshot-1.png)
 
 ## Security & Limitations
 - The project uses an LLM to generate SQL — review generated SQL before running in production. For demos, we seed a local SQLite DB and run queries read-only.
@@ -140,4 +139,4 @@ and return natural language answers.
 ## Notes
 - The backend uses LangChain. LangChain versions change frequently; pinned versions in `backend/requirements.txt` are known to work as of the creation of this project.
 - Keep your OpenAI key secret. Do not check `.env` into source control.
->>>>>>> b1a04fa (Initial commit: chatgpt-sql-agent-fastapi-react)
+

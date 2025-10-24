@@ -1,4 +1,4 @@
-# ChatGPT SQL Agent
+# LangChain LLM Data Analysis Agent
 
 Conversational SQL Agent: natural-language querying of a sales SQLite dataset using LangChain/OpenAI, FastAPI backend, and a React frontend. The project is fully Dockerized and includes a deterministic Faker-based seeder so you can reproduce demo data locally.
 
